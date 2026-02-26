@@ -1,0 +1,1 @@
+export { default as authCtrl } from './authController.ts';
